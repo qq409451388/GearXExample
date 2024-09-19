@@ -1,0 +1,14 @@
+{
+  "LOCAL": {
+    "@all":"localhost"
+  },
+  "DEV": {
+    "@all":"tencent"
+  },
+  "TEST": {
+    "@all": "tencent"
+  },
+  "PROD": {
+    "@all": "tencent"
+  }
+}

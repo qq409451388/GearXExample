@@ -1,0 +1,12 @@
+{
+  "env": "prod",
+  "server": {
+    "http_server_request_limit": "2097152",
+    "port": "8888",
+    "ip": "127.0.0.1",
+    "schema": "http"
+  },
+  "domain": "xxx",
+  "staticDomain": "xxx",
+  "static_path": "/home/release/static"
+}
