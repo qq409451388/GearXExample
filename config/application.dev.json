@@ -3,7 +3,6 @@
   "server": {
     "http_server_request_limit": "2097152",
     "port": "8888",
-    "ip": "127.0.0.1",
     "schema": "http"
   },
   "domain": "127.0.0.1:8888",

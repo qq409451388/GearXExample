@@ -1,0 +1,12 @@
+env: dev
+dependency:
+  - name: ezcurl
+    version: 1.0.0
+  - name: orm
+    version: 1.0.0
+  - name: db
+    version: 1.0.0
+  - name: utils
+    version: 1.0.0
+  - name: web
+    version: 1.0.0
