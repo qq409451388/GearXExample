@@ -1,8 +1,0 @@
-env: dev
-server:
-  http_server_request_limit: "2097152"
-  port: "8888"
-  schema: http
-domain: 127.0.0.1:8888
-staticDomain: xxx
-static_path: /home/release/static
